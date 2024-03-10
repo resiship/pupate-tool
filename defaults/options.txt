@@ -1,0 +1,10 @@
+fontIs monospace
+sizeIs 16px
+textColorIs initial
+linkColorIs revert
+backgroundColorIs initial
+showIndexWith dates
+sortIndexBy newest
+pageURLsBasedOn filename
+outputLocationIs ./imago/
+RSSBaseURLIs https://www.example.com/
